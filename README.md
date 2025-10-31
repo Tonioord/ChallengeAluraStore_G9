@@ -8,3 +8,4 @@ El objetivo principal es minimizar el riesgo y maximizar la utilidad al fundamen
 
 Para ver el analisis, es necesario abrir el proyecto AluraStoreLatam.ipynb donde se describe el razonamiento y tenemos apoyos visuales.
 En los archivos html podemos encontrar mapas de calor interactivos, de igual manera el mapa de las tiendas general se encuentra disponible en el archivo de colab
+De igual manera se puede acceder al mapa de calor directamente abriendo el pages de nuestro proyecto https://tonioord.github.io/ChallengeAluraStore_G9/
